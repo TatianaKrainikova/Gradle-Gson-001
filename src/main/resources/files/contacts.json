@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tom",
+    "phone": "555 412-4587",
+    "email": "tom@mail.com"
+  },
+  {
+    "name": "Alice",
+    "phone": "777 851-6549",
+    "email": "alice@mail.com"
+  },
+  {
+    "name": "Robert",
+    "phone": "555 361-5879",
+    "email": "bob@post.com"
+  },
+  {
+    "name": "Mary",
+    "phone": "555 333-8899",
+    "email": "mary@mail.com"
+  },
+  {
+    "name": "Linda",
+    "phone": "555 211-1110",
+    "email": "linn@post.com"
+  }
+]
